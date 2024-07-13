@@ -22,7 +22,7 @@
 #   docker build -t=openj9aarch64 .
 #   docker run -it openj9aarch64
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 # Install required OS tools
 RUN apt-get update \
