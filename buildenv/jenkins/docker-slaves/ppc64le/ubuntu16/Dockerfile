@@ -30,7 +30,7 @@
 # This Dockerfile is for test purposes only,
 # and is not meant for compiling.
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 # Install required OS tools
 
