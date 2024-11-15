@@ -27,7 +27,7 @@
 #   docker build -t openj9 -f Dockerfile .
 #   docker run -it openj9
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 
 # Install required OS tools
 
